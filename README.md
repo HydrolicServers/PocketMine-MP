@@ -1,4 +1,4 @@
-# [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
+# [![PocketMine-MP](https://imgur.com/f2wAYze)](https://pmmp.io)
 
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
 
@@ -52,4 +52,4 @@ Head over to our [official Jenkins server](https://jenkins.pmmp.io/)
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-pmmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong to their respective owners. PocketMine-MP is not a Mojang-approved software, nor is it associated with Mojang.
+HydrolicServers are not affiliated with Mojang. All brands and trademarks belong to their respective owners. HydrolicServers is not a Mojang-approved software, nor is it associated with Mojang.
