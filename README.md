@@ -1,4 +1,4 @@
-# [![PocketMine-MP](https://imgur.com/f2wAYze)](https://pmmp.io)
+# [![PocketMine-MP](https://i.imgur.com/f2wAYze.jpg)](https://pmmp.io)
 
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
 
