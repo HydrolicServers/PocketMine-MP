@@ -9,12 +9,15 @@
  *
 */
 declare(strict_types=1);
+
 namespace pocketmine\command\defaults;
+
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\TranslationContainer;
 use pocketmine\utils\TextFormat;
-class HelpCommand extends VanillaCommand{
+
+class FoundersCommand extends VanillaCommand{
 	public function __construct(string $name){
 		parent::__construct(
 			$name,
@@ -66,7 +69,7 @@ class HelpCommand extends VanillaCommand{
 		}else{
 			if(($cmd = $sender->getServer()->getCommandMap()->getCommand(strtolower($command))) instanceof Command){
 				if($cmd->testPermissionSilent($sender)){
-			$sender->sendMessage(TextFormat::RED . "MrDevCat and Dogeee " . strtolower($command));
+			$sender->sendMessage(TextFormat::RED . "Dogeee and iiFlamiinBlaze " . strtolower($command));
 			return true;
 		}
 	}
