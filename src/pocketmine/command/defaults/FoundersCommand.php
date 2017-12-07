@@ -1,12 +1,12 @@
 <?php
 /*
+ * -==+HydrolicServers Team+==-
+ * Code below is written by HydrolicServers Team Members.
+ * Read the license on the repo.
+ * HydrolicServers Team Founders: Dogeee and iiFlamiinBlaze
  *
- * 
- *
- * @author HydrolicServers Team
- * 
- *
- *
+ * @author HydrolicServers
+ * @github https://github.com/HydrolicServers
 */
 declare(strict_types=1);
 
